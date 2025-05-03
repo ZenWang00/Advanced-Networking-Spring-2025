@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Maximum Rate Possible in a Network of Queues}{2}{section.2}%
+\contentsline {section}{\numberline {3}Little's Theorem and its Application to the Emergency Room}{3}{section.3}%
+\contentsline {section}{\numberline {4}Proof of the M/M/1 Queue Length Formula}{4}{section.4}%
+\contentsline {section}{\numberline {5}M/M/1 Queue Analysis for a Packet Transmission Link}{4}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{5}{section.6}%
