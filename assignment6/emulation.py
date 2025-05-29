@@ -1,6 +1,6 @@
 # NOTE:
 # This implementation has been thoroughly debugged. All network interface assignments, IP addresses, and routing tables are strictly consistent with the YAML topology and shortest-path (cost-based) routing requirements.
-# Despite this, repeated testing in the Mininet environment shows that 'pingall' consistently results in a nonzero packet loss rate, even though all configuration and routing tables are correct.
+# Despite this, repeated testing in the Mininet environment shows that 'pingall' consistently results in a nonzero packet loss rate, even though all configuration and routing tables are correct. Same as Assignmnet6 :(
 
 import argparse
 import yaml
